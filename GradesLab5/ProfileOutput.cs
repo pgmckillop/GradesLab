@@ -172,7 +172,7 @@ namespace GradesLab5
 
             // Profile scenario data will go in here
             mailItem.To = emailAddress;
-            mailItem.CC = "paul.mckillop@iwcollege.ac.uk";
+            //mailItem.CC = "paul.mckillop@iwcollege.ac.uk";
             mailItem.Subject = studName + " Grade and profile tutorial";
             mailItem.Body = thisMessageBody;
             mailItem.Display(true);

@@ -14,7 +14,12 @@ namespace GradesLab5
         public frmHelpBrowser()
         {
             InitializeComponent();
-            webBrowser1.Navigate(new Uri("http://www.mibase.info/wp/?page_id=45"));
+            helpBrowser.Navigate(new Uri("http://paulmckillop.uk/glhelp.pdf"));
+        }
+
+        private void closeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
 
     }

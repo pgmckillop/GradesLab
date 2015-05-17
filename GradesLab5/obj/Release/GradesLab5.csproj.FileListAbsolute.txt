@@ -41,7 +41,22 @@ C:\Users\Paul\Desktop\Github\Grades Lab 6\GradesLab5\obj\Release\GradesLab5.Prop
 C:\Users\Paul\Desktop\Github\Grades Lab 6\GradesLab5\obj\Release\GradesLab5.csproj.GenerateResource.Cache
 C:\Users\Paul\Desktop\Github\Grades Lab 6\GradesLab5\obj\Release\GradesLab5Extended.exe.manifest
 C:\Users\Paul\Desktop\Github\Grades Lab 6\GradesLab5\obj\Release\GradesLab5Extended.application
-C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\bin\Release\GradesLab5Extended.exe.config
 C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\obj\Release\GradesLab5.csproj.ResolveComReference.cache
-C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\obj\Release\GradesLab5Extended.exe
-C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\obj\Release\GradesLab5Extended.pdb
+C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\obj\Release\GradesLab5.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\obj\Release\GradesLab5.Form1.resources
+C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\obj\Release\GradesLab5.frmHelpBrowser.resources
+C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\obj\Release\GradesLab5.Properties.Resources.resources
+C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\obj\Release\GradesLab5.csproj.GenerateResource.Cache
+C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\bin\Release\GradesLab6Extended.exe.config
+C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\bin\Release\GradesLab6Extended.exe.manifest
+C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\bin\Release\GradesLab6Extended.application
+C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\bin\Release\GradesLab6Extended.exe
+C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\bin\Release\GradesLab6Extended.pdb
+C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\obj\Release\GradesLab6Extended.exe.manifest
+C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\obj\Release\GradesLab6Extended.application
+C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\obj\Release\GradesLab6Extended.exe
+C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\obj\Release\GradesLab6Extended.pdb
+C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\Paul\Desktop\Github\GradesLab\GradesLab5\bin\Release\AxInterop.AcroPDFLib.dll
