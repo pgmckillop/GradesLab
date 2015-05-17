@@ -1,0 +1,29 @@
+J:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\bin\Debug\GradesLab5.exe.config
+J:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\bin\Debug\GradesLab5.exe
+J:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\bin\Debug\GradesLab5.pdb
+J:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\obj\Debug\GradesLab5.csprojResolveAssemblyReference.cache
+J:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\obj\Debug\GradesLab5.Form1.resources
+J:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\obj\Debug\GradesLab5.Properties.Resources.resources
+J:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\obj\Debug\GradesLab5.csproj.GenerateResource.Cache
+J:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\obj\Debug\GradesLab5.exe
+J:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\obj\Debug\GradesLab5.pdb
+G:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\bin\Debug\GradesLab5.exe.config
+G:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\obj\Debug\GradesLab5.exe
+G:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\obj\Debug\GradesLab5.pdb
+G:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\bin\Debug\GradesLab5.exe
+G:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\bin\Debug\GradesLab5.pdb
+G:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\obj\Debug\GradesLab5.csprojResolveAssemblyReference.cache
+G:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\obj\Debug\GradesLab5.Form1.resources
+G:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\obj\Debug\GradesLab5.Properties.Resources.resources
+G:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\obj\Debug\GradesLab5.csproj.GenerateResource.Cache
+G:\00 #.00 Dev Active Iomega\GradesLab5\GradesLab5\obj\Debug\GradesLab5.csproj.ResolveComReference.cache
+J:\00 #.00 Dev Active Iomega\Grades Lab 5 .Net 4\GradesLab5\bin\Debug\GradesLab5.exe.config
+J:\00 #.00 Dev Active Iomega\Grades Lab 5 .Net 4\GradesLab5\obj\Debug\GradesLab5.csproj.ResolveComReference.cache
+J:\00 #.00 Dev Active Iomega\Grades Lab 5 .Net 4\GradesLab5\obj\Debug\GradesLab5.exe
+J:\00 #.00 Dev Active Iomega\Grades Lab 5 .Net 4\GradesLab5\obj\Debug\GradesLab5.pdb
+J:\00 #.00 Dev Active Iomega\Grades Lab 5 .Net 4\GradesLab5\bin\Debug\GradesLab5.exe
+J:\00 #.00 Dev Active Iomega\Grades Lab 5 .Net 4\GradesLab5\bin\Debug\GradesLab5.pdb
+J:\00 #.00 Dev Active Iomega\Grades Lab 5 .Net 4\GradesLab5\obj\Debug\GradesLab5.csprojResolveAssemblyReference.cache
+J:\00 #.00 Dev Active Iomega\Grades Lab 5 .Net 4\GradesLab5\obj\Debug\GradesLab5.Form1.resources
+J:\00 #.00 Dev Active Iomega\Grades Lab 5 .Net 4\GradesLab5\obj\Debug\GradesLab5.Properties.Resources.resources
+J:\00 #.00 Dev Active Iomega\Grades Lab 5 .Net 4\GradesLab5\obj\Debug\GradesLab5.csproj.GenerateResource.Cache

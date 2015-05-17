@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="GradesLab5Extended.exe" version="1.0.0.0" publicKeyToken="aaee77c13936b757" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="PropertyIcon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="GradesLab5Extended" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="GradesLab5Extended.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GradesLab5Extended.exe" size="493448">
+      <assemblyIdentity name="GradesLab5Extended" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>GxUKTGVyhNvYDpjhsyO5zZRFiI0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="GradesLab5Extended.exe.config" size="184">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>06MAsbgFUGlKhu1U3KJ4fh8CRLU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PropertyIcon.ico" size="428446">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>8o+zL+gviPMo9bxq71EO5MQutuw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=PAUL-HP\Paul" issuerKeyHash="2c943764a256cb3619eb7892c2f6ef557326c6ed" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>jqcn3rC4j/u/YNE68QU4iCrt2Tc=</DigestValue></Reference></SignedInfo><SignatureValue>ro0VlsojuoFASI/ysAl7Tx52yzV1QgI7GDdP4AzQNpogq7WouBCXr1MxTz6mdDbw/SPhFi0vtkCbF3kyOzi4NJOHd1UvvntkOwL08TwhdlXvANKwAcS9euAIjKzB6C8IZTcsqk+RrgIBUy2TX3ecdyHmhFUn4dTUEev9QFZ/LpE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xZf/7cZ1IDAJ7RtWRT8KqNn5y2AUu0+T5YxXYOyqpvNuiUDHQNRTFFImlAjnLKVkz1hyM1x93wqYvU9qQ2v+ntXVnuu4OvxuTFsljELJKEsHL176SLVGEApCRHJVq/+uVW8VR5ZiVAHEkQOZAlJPPmijtr3osUuGjf2KUzTssv0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="37d9ed2a883805f13ad160bffb8fb8b0de27a78e" Description="" Url=""><as:assemblyIdentity name="GradesLab5Extended.exe" version="1.0.0.0" publicKeyToken="aaee77c13936b757" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=PAUL-HP\Paul</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>SQ0eUahhKIEeALZiLy1QdY43ZSU=</DigestValue></Reference></SignedInfo><SignatureValue>CI4mOmVAPv6ADfiGhPJCndf5W/Qp+GzQGNW/okbTzuFMzJeVQ+TvSEToGVjDyv2yA94mv8kK+SEyYTyJShvM/6pw6s5vC0/nKf5IGwY+mO630OyoRnp/yyfwFbRPU1Qu9AKbKNN+rlXvHsaxsfg6W2a6NMOv7syv+zHLFuhZ06Y=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xZf/7cZ1IDAJ7RtWRT8KqNn5y2AUu0+T5YxXYOyqpvNuiUDHQNRTFFImlAjnLKVkz1hyM1x93wqYvU9qQ2v+ntXVnuu4OvxuTFsljELJKEsHL176SLVGEApCRHJVq/+uVW8VR5ZiVAHEkQOZAlJPPmijtr3osUuGjf2KUzTssv0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQU3IC5eO8OpRBRY+cdZgtkzANBgkqhkiG9w0BAQUFADAjMSEwHwYDVQQDHhgAUABBAFUATAAtAEgAUABcAFAAYQB1AGwwHhcNMTUwMjA0MTQ1MzU5WhcNMTYwMjA0MjA1MzU5WjAjMSEwHwYDVQQDHhgAUABBAFUATAAtAEgAUABcAFAAYQB1AGwwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMWX/+3GdSAwCe0bVkU/CqjZ+ctgFLtPk+WMV2DsqqbzbolAx0DUUxRSJpQI5yylZM9YcjNcfd8KmL1PakNr/p7V1Z7ruDr8bkxbJYxCyShLBy9e+ki1RhAKQkRyVav/rlVvFUeWYlQBxJEDmQJSTz5oo7a96LFLho39ilM07LL9AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEANU6D6c+7g2FamKCArrQChGGZZHll0WVofZh7A+VvYF5HY3637X1Z+L5NYy6Agu+kLjRwWSbdNOw6W0WcZ50RYjb8cPHQ4O7n4vWK86Gk8sm6+4U+qF/hCRbzo8E3DFdX3CKE4IdpZ0L2bzxw8n2ZxIU0dVzFpkNHCy0XW5c+w/A=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
